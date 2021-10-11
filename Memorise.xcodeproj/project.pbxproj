@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		343C6154271480AB001EEABE /* MemoryGame.swift in Sources */ = {isa = PBXBuildFile; fileRef = 343C6153271480AB001EEABE /* MemoryGame.swift */; };
 		3486A84526EAA5A50095393F /* MemoriseApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3486A84426EAA5A50095393F /* MemoriseApp.swift */; };
 		3486A84726EAA5A50095393F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3486A84626EAA5A50095393F /* ContentView.swift */; };
 		3486A84926EAA5A60095393F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3486A84826EAA5A60095393F /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		343C6153271480AB001EEABE /* MemoryGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = MemoryGame.swift; path = Memorise/MemoryGame.swift; sourceTree = "<group>"; };
 		3486A84126EAA5A50095393F /* Memorise.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Memorise.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3486A84426EAA5A50095393F /* MemoriseApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemoriseApp.swift; sourceTree = "<group>"; };
 		3486A84626EAA5A50095393F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -36,6 +38,7 @@
 		3486A83826EAA5A50095393F = {
 			isa = PBXGroup;
 			children = (
+				343C6153271480AB001EEABE /* MemoryGame.swift */,
 				3486A84326EAA5A50095393F /* Memorise */,
 				3486A84226EAA5A50095393F /* Products */,
 			);
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				343C6154271480AB001EEABE /* MemoryGame.swift in Sources */,
 				3486A84726EAA5A50095393F /* ContentView.swift in Sources */,
 				3486A84526EAA5A50095393F /* MemoriseApp.swift in Sources */,
 			);
